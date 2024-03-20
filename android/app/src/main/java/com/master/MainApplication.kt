@@ -1,4 +1,4 @@
-package com.master
+package com.targapps.ohm
 
 import android.app.Application
 import com.facebook.react.PackageList

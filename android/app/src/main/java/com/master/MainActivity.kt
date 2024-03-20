@@ -1,4 +1,4 @@
-package com.master
+package com.targapps.ohm
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
